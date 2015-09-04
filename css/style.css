@@ -1,0 +1,10 @@
+body{
+  font-family: 'Arial', Helvetic, Sans-Serif;
+  background: #f4f4f4;
+}
+
+#menu, #menu ul{
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
